@@ -1,4 +1,4 @@
-package pkgtwo;
+package javabasics;
 
 public class Lab001 {
 
