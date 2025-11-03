@@ -1,4 +1,4 @@
-package javabasics;
+package ex_01_JavaBasics;
 
 public class Lab006_NonPrimitive_Literals {
 

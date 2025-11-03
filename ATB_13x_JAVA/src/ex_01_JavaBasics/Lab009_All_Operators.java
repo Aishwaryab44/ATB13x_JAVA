@@ -1,4 +1,4 @@
-package javabasics;
+package ex_01_JavaBasics;
 
 public class Lab009_All_Operators {
 		    public static void main(String[] args) {
